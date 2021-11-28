@@ -2,7 +2,8 @@ let turn="X";
 let isgameover=false;
 // Function to change turn
 const changeTurn=()=>{
-    return turn==="X"?"O":"X"
+        return turn==="X"?"O":"X"
+
 }
 // Function to check winner
 
